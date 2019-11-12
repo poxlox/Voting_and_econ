@@ -8,6 +8,8 @@ Economic data is pulled from the Bureau of Labor Statistics and the Bureau of Ec
 
 Each quality and voting result is associated with a particular county. The counties are defined by their FIPS code. Unfortunately, the FIPS code is not consistent with the state of Alaska, and some data is lost. Still, the results are mostly in tact, and the loss of the represented population is only about 1% of the US population. 
 
+
+## Results
 The Results are listed in the tables below. There is clear and stable correlation for each economic feature for each political party's presidential candidate. The economic factors do not particularly more relevant for the voting outcome of 2016 than other election years, but, of course, these are economic qualities of the district and not the particular policies of the candidate.  
 \
 \
