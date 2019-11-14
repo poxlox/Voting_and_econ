@@ -1,6 +1,9 @@
 # Voting_econ_profiles
-
+2000-2016
 #### Index
+-- See "Files" contains the pkl tables of parsed data. The general tables to derive data are split by Election Year "table120{yr}.pkl". There are pearson correlation tables by presidential candidate labeled "{D or R}corr{President Last Name}{yr}.pkl". The rest are various data sources. 
+
+-- 
 
 ## Background
 Back in 2016, I was discussing the upcoming election with a friend of mine. He claimed that this year (2016), voters are going to be highly motivated by economic issues, much more than other years. With the outcome of the election still a fresh wound, I used that discussion as a starting point to explore how much economic variables correspond with voting outcomes.
