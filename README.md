@@ -1,5 +1,7 @@
 # Voting_econ_profiles
 
+#### Index
+
 ## Background
 Back in 2016, I was discussing the upcoming election with a friend of mine. He claimed that this year (2016), voters are going to be highly motivated by economic issues, much more than other years. With the outcome of the election still a fresh wound, I used that discussion as a starting point to explore how much economic variables correspond with voting outcomes.
 
